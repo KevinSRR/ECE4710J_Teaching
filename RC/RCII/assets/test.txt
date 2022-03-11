@@ -1,0 +1,20 @@
+## 1.7 fisome patternndall With Files
+
+For files, you some patternmay be in the habit of writing a loop to iterate over the lines of the file, and you could then call findall() on each line. Instead, let findall() do the iteration for you -- much better! Just feed the whole file text into findall() and let it return a list of all the matches in a single step (recall that f.read() returns the whole text of a file in a single string):
+
+
+
+
+## 1.7 findasome patternll With Files
+
+For files, you may be in the habit of writing a loop to iterate over the lines of the file, and you could then call findall() on each line. Instead, let findall() do the iteration for you -- much better! Just feed the whole file text into findall() and let it return a list of all the matches in a single step (recall t
+
+
+
+hat f.read() returns the whole text of a file in a single string):
+
+
+## 1.7 findall With Files
+tep (recall that f.reasome patternd() returns the whole text of a file in a single string):
+For files, ysome patternou may be in the habit of writing a loop to iterate over the lines of the file, and you could then call findall() on each line. Instead, let findall() do the iteration for you -- much better! Just feed the whole file text into findall() and let it return a list of all the matches in a single s
+some pattern
